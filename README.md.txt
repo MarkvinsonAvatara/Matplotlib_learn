@@ -1,3 +1,0 @@
-Visualisasi Data
-Matplotlib
-2073011 Markvinson Avatara
